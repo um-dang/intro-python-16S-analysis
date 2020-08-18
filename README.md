@@ -4,20 +4,25 @@ Python is a capable and free (open source) programming language well-suited for 
 ## If you want to join along
 1. Please install Python version 3:
 https://www.python.org/downloads/release/python-385/
+- I suggest starting with vanilla python3. There are _many_ different versions of python. 
 
-2. Open a command line (in windows, command; in mac, terminal)
+2. Download this repository
+- This can be done via Code -> Download Zip above. Then unzip to a directory
 
-3. Create a virtual environment
+3. Open a command line (in windows, command; in mac, terminal)
+- Change to the directory of the downloaded repository
+
+4. Create a virtual environment
 `python3 -m venv dang-env`
 
-4. Activate the virutal environment
+5. Activate the virutal environment
 `source dang-env/bin/activate`
 
-5. Upgrade pip3
+6. Upgrade pip3
 `pip3 install pip --upgrade`
 
-6. Install the required packages
+7. Install the required packages
 `pip3 install -r requirements.txt`
 
-7. Start jupyter
+8. Start jupyter
 `jupyter notebook`
