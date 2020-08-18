@@ -1,0 +1,160 @@
+Sample_ID,Publication_ID,Location,cancer_type,ICI_type,Sequencing_method,Seq_note,Project_ID,Subject_ID,Timepoint,Colitis,ICI_Response,ICI_Response_RECIST,data_type,specimen
+SRR6000888,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P29,,,R,,16S_miseq_p,SRR6000888
+SRR6000887,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P22,,,NR,,16S_miseq_p,SRR6000887
+SRR6000897,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P40,,,NR,,16S_miseq_p,SRR6000897
+SRR6000883,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P26,,,NR,,16S_miseq_p,SRR6000883
+SRR6000882,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P25,,,NR,,16S_miseq_p,SRR6000882
+SRR6000916,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P37,,,R,,16S_miseq_p,SRR6000916
+SRR6000876,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P42,,,NR,,16S_miseq_p,SRR6000876
+SRR6000928,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P13,,,R,,16S_miseq_p,SRR6000928
+SRR6000879,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P33,,,R,,16S_miseq_p,SRR6000879
+SRR6000917,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P32,,,NR,,16S_miseq_p,SRR6000917
+SRR6000918,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P31,,,NR,,16S_miseq_p,SRR6000918
+SRR6000880,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P27,,,R,,16S_miseq_p,SRR6000880
+SRR6000919,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P20,,,R,,16S_miseq_p,SRR6000919
+SRR6000922,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P19,,,NR,,16S_miseq_p,SRR6000922
+SRR6000941,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P04,,,NR,,16S_miseq_p,SRR6000941
+SRR6000936,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P07,,,R,,16S_miseq_p,SRR6000936
+SRR6000933,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P09,,,R,,16S_miseq_p,SRR6000933
+SRR6000875,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P41,,,NR,,16S_miseq_p,SRR6000875
+SRR6000938,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P01,,,NR,,16S_miseq_p,SRR6000938
+SRR6000889,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P30,,,NR,,16S_miseq_p,SRR6000889
+SRR6000925,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P16,,,R,,16S_miseq_p,SRR6000925
+SRR6000913,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P36,,,R,,16S_miseq_p,SRR6000913
+SRR6000948,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P03,,,NR,,16S_miseq_p,SRR6000948
+SRR6000934,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P06,,,NR,,16S_miseq_p,SRR6000934
+SRR6000926,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P15,,,NR,,16S_miseq_p,SRR6000926
+SRR6000898,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P39,,,R,,16S_miseq_p,SRR6000898
+SRR6000886,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P21,,,NR,,16S_miseq_p,SRR6000886
+SRR6000884,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P23,,,R,,16S_miseq_p,SRR6000884
+SRR6000930,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P11,,,NR,,16S_miseq_p,SRR6000930
+SRR6000927,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P14,,,NR,,16S_miseq_p,SRR6000927
+SRR6000904,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P10,,,NR,,16S_miseq_p,SRR6000904
+SRR6000929,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P12,,,NR,,16S_miseq_p,SRR6000929
+SRR6000915,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P38,,,NR,,16S_miseq_p,SRR6000915
+SRR6000924,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P17,,,NR,,16S_miseq_p,SRR6000924
+SRR6000885,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P24,,,R,,16S_miseq_p,SRR6000885
+SRR6000914,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P35,,,NR,,16S_miseq_p,SRR6000914
+SRR6000937,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P02,,,R,,16S_miseq_p,SRR6000937
+SRR6000872,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P34,,,R,,16S_miseq_p,SRR6000872
+SRR6000923,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P18,,,NR,,16S_miseq_p,SRR6000923
+SRR6000939,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P08,,,NR,,16S_miseq_p,SRR6000939
+SRR6000935,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P05,,,NR,,16S_miseq_p,SRR6000935
+SRR6000881,Matson,Chicago,Melanoma,PD-1,16S,,SRP116709,P28,,,R,,16S_miseq_p,SRR6000881
+SRR2940926,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF23,,no,,,16S_miseq_s,SRR2940926
+SRR2940927,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF24,,no,,,16S_miseq_s,SRR2940927
+SRR2940978,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF08,,no,,,16S_miseq_s,SRR2940978
+SRR2940956,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF06,,no,,,16S_miseq_s,SRR2940956
+SRR2940913,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF11,,no,,,16S_miseq_s,SRR2940913
+SRR2940930,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC27,,yes,,,16S_miseq_s,SRR2940930
+SRR2940936,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC32,,yes,,,16S_miseq_s,SRR2940936
+SRR2940922,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF20,,no,,,16S_miseq_s,SRR2940922
+SRR2940945,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF05,,no,,,16S_miseq_s,SRR2940945
+SRR2940932,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC29,,yes,,,16S_miseq_s,SRR2940932
+SRR2940920,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF18,,no,,,16S_miseq_s,SRR2940920
+SRR2940915,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF13,,no,,,16S_miseq_s,SRR2940915
+SRR2940967,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF07,,no,,,16S_miseq_s,SRR2940967
+SRR2940923,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF03,,no,,,16S_miseq_s,SRR2940923
+SRR2940919,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF17,,no,,,16S_miseq_s,SRR2940919
+SRR2940935,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC31,,yes,,,16S_miseq_s,SRR2940935
+SRR2940921,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF19,,no,,,16S_miseq_s,SRR2940921
+SRR2940931,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC28,,yes,,,16S_miseq_s,SRR2940931
+SRR2940929,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC26,,yes,,,16S_miseq_s,SRR2940929
+SRR2940924,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF21,,no,,,16S_miseq_s,SRR2940924
+SRR2940933,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC30,,yes,,,16S_miseq_s,SRR2940933
+SRR2940937,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC33,,yes,,,16S_miseq_s,SRR2940937
+SRR2940938,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC34,,yes,,,16S_miseq_s,SRR2940938
+SRR2940916,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF14,,no,,,16S_miseq_s,SRR2940916
+SRR2940917,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF15,,no,,,16S_miseq_s,SRR2940917
+SRR2940918,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF16,,no,,,16S_miseq_s,SRR2940918
+SRR2940987,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF09,,no,,,16S_miseq_s,SRR2940987
+SRR2940911,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF01,,no,,,16S_miseq_s,SRR2940911
+SRR2940912,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF02,,no,,,16S_miseq_s,SRR2940912
+SRR2940928,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,PtC25,,yes,,,16S_miseq_s,SRR2940928
+SRR2940925,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF22,,no,,,16S_miseq_s,SRR2940925
+SRR2940988,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF10,,no,,,16S_miseq_s,SRR2940988
+SRR2940934,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF04,,no,,,16S_miseq_s,SRR2940934
+SRR2940914,Dubin,NY,Melanoma,Ipilimumab,16S,,PRJNA302832,CF12,,no,,,16S_miseq_s,SRR2940914
+SRR5367475,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G039,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367475
+SRR5367468,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G042,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367468
+SRR5367470,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G041,before ICI 3,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367470
+SRR5367483,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G036,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367483
+SRR5367497,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G021,before ICI 2,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367497
+SRR5367488,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G030,baseline,no,R,Long term benefit,16S_pyro,SRR5367488
+SRR5367492,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G028,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367492
+SRR5367539,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G003,before ICI 3,no,R,Long term benefit,16S_pyro,SRR5367539
+SRR5367479,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G037,before ICI 2,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367479
+SRR5367527,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G008,baseline,yes,R,Long term benefit,16S_pyro,SRR5367527
+SRR5367462,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G048,before ICI 3,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367462
+SRR5367514,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G015,tox,yes,R,Long term benefit,16S_pyro,SRR5367514
+SRR5367519,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G012,before ICI 2,yes,R,Long term benefit,16S_pyro,SRR5367519
+SRR5367498,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G021,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367498
+SRR5367521,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G012,tox,yes,R,Long term benefit,16S_pyro,SRR5367521
+SRR5367466,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G046,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367466
+SRR5367485,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G035,baseline,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367485
+SRR5367507,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G016,before ICI 2,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367507
+SRR5367531,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G006,before ICI 3,no,R,Long term benefit,16S_pyro,SRR5367531
+SRR5367481,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G036,before ICI 3,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367481
+SRR5367465,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G046,before ICI 2,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367465
+SRR5367515,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G014,baseline,yes,R,Long term benefit,16S_pyro,SRR5367515
+SRR5367491,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G028,before ICI 2,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367491
+SRR5367534,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G004,before ICI 4,no,R,Long term benefit,16S_pyro,SRR5367534
+SRR5367469,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G041,before ICI 4,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367469
+SRR5367473,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G039,before ICI 4,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367473
+SRR5367476,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G038,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367476
+SRR5367496,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G021,before ICI 3,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367496
+SRR5367501,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G020,baseline,no,R,Long term benefit,16S_pyro,SRR5367501
+SRR5367541,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G001,end of ICI,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367541
+SRR5367464,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G046,before ICI 3,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367464
+SRR5367533,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G006,baseline,no,R,Long term benefit,16S_pyro,SRR5367533
+SRR5367487,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G034,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367487
+SRR5367504,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G017,before ICI 3,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367504
+SRR5367518,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G012,before ICI 3,yes,R,Long term benefit,16S_pyro,SRR5367518
+SRR5367474,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G039,before ICI 2,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367474
+SRR5367477,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G037,before ICI 4,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367477
+SRR5367482,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G036,before ICI 2,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367482
+SRR5367472,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G039,end of ICI,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367472
+SRR5367529,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G008,post-tox,yes,R,Long term benefit,16S_pyro,SRR5367529
+SRR5367484,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G035,before ICI 4,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367484
+SRR5367508,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G016,baseline,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367508
+SRR5367463,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G048,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367463
+SRR5367489,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G028,before ICI 4,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367489
+SRR5367499,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G020,before ICI 4,no,R,Long term benefit,16S_pyro,SRR5367499
+SRR5367537,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G004,baseline,no,R,Long term benefit,16S_pyro,SRR5367537
+SRR5367544,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G001,post-tox,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367544
+SRR5367467,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G042,before ICI 2,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367467
+SRR5367494,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G024,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367494
+SRR5367486,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G035,tox,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367486
+SRR5367490,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G028,before ICI 3,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367490
+SRR5367535,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G004,before ICI 3,no,R,Long term benefit,16S_pyro,SRR5367535
+SRR5367543,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G001,tox,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367543
+SRR5367516,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G014,tox,yes,R,Long term benefit,16S_pyro,SRR5367516
+SRR5367520,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G012,baseline,yes,R,Long term benefit,16S_pyro,SRR5367520
+SRR5367502,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G017,end of ICI,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367502
+SRR5367524,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G008,before ICI 4,yes,R,Long term benefit,16S_pyro,SRR5367524
+SRR5367493,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G024,before ICI 2,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367493
+SRR5367523,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G009,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367523
+SRR5367522,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G009,before ICI 3,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367522
+SRR5367509,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G016,tox,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367509
+SRR5367526,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G008,before ICI 2,yes,R,Long term benefit,16S_pyro,SRR5367526
+SRR5367532,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G006,before ICI 2,no,R,Long term benefit,16S_pyro,SRR5367532
+SRR5367517,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G012,before ICI 4,yes,R,Long term benefit,16S_pyro,SRR5367517
+SRR5367538,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G003,before ICI 4,no,R,Long term benefit,16S_pyro,SRR5367538
+SRR5367495,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G022,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367495
+SRR5367471,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G041,before ICI 2,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367471
+SRR5367530,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G006,before ICI 4,no,R,Long term benefit,16S_pyro,SRR5367530
+SRR5367542,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G001,baseline,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367542
+SRR5367510,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G015,end of ICI,yes,R,Long term benefit,16S_pyro,SRR5367510
+SRR5367480,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G037,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367480
+SRR5367503,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G017,before ICI 4,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367503
+SRR5367505,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G017,baseline,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367505
+SRR5367500,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G020,before ICI 2,no,R,Long term benefit,16S_pyro,SRR5367500
+SRR5367536,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G004,before ICI 2,no,R,Long term benefit,16S_pyro,SRR5367536
+SRR5367512,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G015,before ICI 2,yes,R,Long term benefit,16S_pyro,SRR5367512
+SRR5367525,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G008,before ICI 3,yes,R,Long term benefit,16S_pyro,SRR5367525
+SRR5367478,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G037,before ICI 3,no,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367478
+SRR5367528,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G008,tox,yes,R,Long term benefit,16S_pyro,SRR5367528
+SRR5367540,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G003,baseline,no,R,Long term benefit,16S_pyro,SRR5367540
+SRR5367506,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G016,before ICI 3,yes,NR,Poor benefit (PFS <6mo),16S_pyro,SRR5367506
+SRR5367511,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G015,before ICI 4,yes,R,Long term benefit,16S_pyro,SRR5367511
+SRR5367513,Chaput,France,Melanoma,ipilimumab,16S,,PRJNA379764,G015,baseline,yes,R,Long term benefit,16S_pyro,SRR5367513
